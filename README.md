@@ -1,14 +1,16 @@
-### OmniSync WatchParty
+## OmniSync WatchParty
+
+<img width="936" height="622" alt="image" src="https://github.com/user-attachments/assets/fe6e18c8-a0ee-43be-8015-a6dd9dcf6b23" />
 
 An enterprise-ready, **DRM-immune architecture** designed to synchronize viewing experiences across platforms like Netflix without screen capture interference. 
 
-### Architecture Abstract
+## Architecture Abstract
 
 Traditional extensions fall short when platforms implement updates to their widevine/scrypt media protection rules, resulting in complete failure or pitch-black video inputs. **OmniSync** circumvents this completely by ignoring the rendering layer and implementing a **Sidecar State Synchronization Protocol**. Metadata hooks and navigation triggers remain completely outside the protected media context window. 
 
-### Installation & Getting Started
+## Installation & Getting Started
 
-### Prerequisites
+## Prerequisites
 
 * Node.js v16.x or superior installed on host machines.
 
