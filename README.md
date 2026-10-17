@@ -16,22 +16,23 @@ Traditional extensions fall short when platforms implement updates to their wide
 
 1. Clone the codebase and move to the server environment directory: 
 
-bash
+``` bash
 
 cd server
 npm install
 npm start
 
-Use o código com cuidado.
+```
+
 2. Spin up client nodes to handle event monitoring: 
 
-bash
+``` bash
 
 cd ../client-agent
 npm install
 npm start
 
-Use o código com cuidado.
+```
 
 ### Production Scaling Architecture
 
