@@ -1,0 +1,12 @@
+{
+"name": "omni-sync-client-agent",
+"version": "1.0.0",
+"description": "Native sidecar client orchestration layer for media alignment",
+"main": "agent.js",
+"scripts": {
+"start": "node agent.js"
+},
+"dependencies": {
+"ws": "^8.18.0"
+}
+}
